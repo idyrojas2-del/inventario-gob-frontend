@@ -1,7 +1,12 @@
 @import "tailwindcss";
 
 @theme {
-  --color-gob-blue: #1e3a8a;
+  --color-aragua-blue: #002750;
+  --color-aragua-red: #E12F40;
+  --color-aragua-yellow: #FDC82F;
+  --color-aragua-gray: #2A2A2A;
+
+  /* Mantener el gris de fondo suave y colores de estado por defecto */
   --color-gob-gray: #f3f4f6;
   --color-status-active: #10b981;
   --color-status-broken: #ef4444;
